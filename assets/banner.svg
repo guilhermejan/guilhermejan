@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Guilherme Januário — Engenharia de Software, Java e projetos com IA">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#192644"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-<g fill="none" stroke="#334155" opacity=".5"><circle cx="1070" cy="150" r="190"/><circle cx="1070" cy="150" r="140"/><circle cx="1070" cy="150" r="90"/><path d="M800 0v320M880 0v320M960 0v320M1040 0v320M1120 0v320M760 80h440M760 160h440M760 240h440"/></g>
-<rect x="60" y="55" width="48" height="5" rx="2" fill="url(#accent)"/>
-<text x="60" y="100" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CURIOSIDADE • PRÁTICA • EVOLUÇÃO</text>
-<text x="56" y="169" fill="#f8fafc" font-family="Arial,sans-serif" font-size="57" font-weight="700">Guilherme Januário</text>
-<text x="60" y="211" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="23">Estudante de Engenharia de Software</text>
-<text x="60" y="262" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="18">Java em foco   /   Projetos assistidos por IA   /   Aprendizado contínuo</text>
-<text x="962" y="187" fill="url(#accent)" font-family="monospace" font-size="82" opacity=".85">&lt;/&gt;</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Guilherme Januário — Engenharia de Software — Estudando Java">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#172334"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="228" rx="16" fill="url(#bg)" stroke="#303d50"/>
+<path d="M1 43h998" stroke="#303d50"/>
+<circle cx="24" cy="23" r="5" fill="#64748b"/><circle cx="42" cy="23" r="5" fill="#64748b"/><circle cx="60" cy="23" r="5" fill="#64748b"/>
+<text x="87" y="28" font-family="monospace" font-size="12" fill="#94a3b8">guilhermejan / perfil</text>
+<text x="42" y="114" font-family="Arial,sans-serif" font-size="43" font-weight="700" fill="#f1f5f9">Guilherme Januário</text>
+<text x="43" y="157" font-family="Arial,sans-serif" font-size="22" fill="#cbd5e1">Engenharia de Software</text>
+<text x="43" y="195" font-family="monospace" font-size="17" fill="#67e8f9">&gt; estudando Java_</text>
+<path d="M870 86l-23 24 23 24m39-48l23 24-23 24m-21-59l-11 70" fill="none" stroke="#67e8f9" stroke-width="4" opacity=".7"/>
+</svg>
