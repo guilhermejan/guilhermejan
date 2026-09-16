@@ -34,11 +34,10 @@ Sou estudante de **Engenharia de Software**, com experiência prática em projet
 
 | Projeto | Experiência |
 | :--- | :--- |
+| [**Universo — Gestão de Terceiros**](https://github.com/guilhermejan/universo) | Sistema em desenvolvimento para gerenciar empresas, funcionários, contratos, documentos, pendências e indicadores de conformidade. Next.js, React, TypeScript, Supabase e PostgreSQL. |
 | **FKA Imports** · [Frontend](https://github.com/guilhermejan/fka-frontend) / [Backend](https://github.com/guilhermejan/fka-backend) | Catálogo, painel administrativo e API para uma empresa de importação. HTML, CSS, JavaScript, Express e PostgreSQL. |
-| [**Universo**](https://github.com/guilhermejan/universo) | Sistema de gestão de terceiros em desenvolvimento. Next.js, TypeScript e Supabase. |
 | [**Ávora Assessoria**](https://github.com/guilhermejan/avora-assessoria) | Demonstração de landing page com formulário e validação de campos. HTML, CSS e JavaScript. |
 | [**Powerred Bot**](https://github.com/guilhermejan/powerred-bot) | Encaminhamento de mensagens entre canais do Discord. Node.js e discord.js. |
-
 
 ---
 
