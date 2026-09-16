@@ -39,8 +39,6 @@ Sou estudante de **Engenharia de Software**, com experiência prática em projet
 | [**Ávora Assessoria**](https://github.com/guilhermejan/avora-assessoria) | Landing page com formulário e integração com Google Apps Script. |
 | **Automação para Discord** | Encaminhamento de mensagens com Node.js e discord.js. |
 
-<sub>FKA, Universo e a automação para Discord ainda têm código privado. A integração original da Ávora precisa de revisão de segurança antes de reutilização.</sub>
-
 ---
 
 <div align="center">
